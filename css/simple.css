@@ -1,0 +1,7 @@
+.repeated-chunk:nth-child(odd) {
+    background-color: #D7ECFF;
+}
+
+.repeated-chunk:nth-child(even) {
+    background-color: #CEFFBE;
+}
